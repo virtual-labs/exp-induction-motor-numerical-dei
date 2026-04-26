@@ -12,3 +12,10 @@ A numerical relay is a solid state relay also called static relay. It contains e
 
 The slave relay is an electromagnetic, semi static relay which closes its contacts. The numerical relay as low burden on CT, PT, fast operation, absence of mechanical inertia and contact trouble, long life and less maintenance. So, they are superior to electromagnetic relay, but they are costly and required more maintenance.
 
+# Equipments Required in Experiment - 11
+
+| Equipment | Image |
+| :--- | :--- |
+| **Fig.1: Induction Motor** | ![Induction Motor](images/exp11/IM.jpg) |
+| **Fig.2: Numerical Relay** | ![Numerical Relay](images/exp11/NR.jpg) |
+| **Fig.3: Current Transformer** | ![Current Transformer](images/exp11/CT.jpg) |
