@@ -12,12 +12,3 @@ A numerical relay is a solid state relay also called static relay. It contains e
 
 The slave relay is an electromagnetic, semi static relay which closes its contacts. The numerical relay as low burden on CT, PT, fast operation, absence of mechanical inertia and contact trouble, long life and less maintenance. So, they are superior to electromagnetic relay, but they are costly and required more maintenance.
 
-## Procedure
-
-1. Switch ON CB for input supply
-2. Press the start button.
-3. Observe the induction motor is running in normal mode
-4. Create single phasing fault by pressing button F1.
-5. The relay tripped the motor and LED indicator glows for single phasing fault.
-6. Reset the relay by pressing reset button.
-7. Again start the motor and repeat the process for other faults.
