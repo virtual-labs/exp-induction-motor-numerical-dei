@@ -3,7 +3,7 @@
   "questions": [
     {
       "num": 1,
-      "question": "What is the purpose of back up protection?",
+      "question": "1. What is the purpose of back up protection?",
       "answers": {
         "a": "To increase the speed",
         "b": "To increase the reach",
@@ -21,7 +21,7 @@
     },
     {
       "num": 2,
-      "question": "What is the actuating quantity for the relays?",
+      "question": "2. What is the actuating quantity for the relays?",
       "answers": {
         "a": "Magnitude",
         "b": "Frequency",
@@ -39,7 +39,7 @@
     },
     {
       "num": 3,
-      "question": "The Induction Motor failures are mainly due to:",
+      "question": "3. The Induction Motor failures are mainly due to:",
       "answers": {
         "a": "Electrical faults",
         "b": "Mechanical stresses",
@@ -57,7 +57,7 @@
     },
     {
       "num": 4,
-      "question": "What are the protections in starter of 3-phase induction motor:",
+      "question": "4. What are the protections in starter of 3-phase induction motor:",
       "answers": {
         "a": "Limiting starting current",
         "b": "Overload protection",
@@ -75,7 +75,7 @@
     },
     {
       "num": 5,
-      "question": "Name the protection used for induction motor from overload, single phasing, locked rotor and earth fault:",
+      "question": "5. Name the protection used for induction motor from overload, single phasing, locked rotor and earth fault:",
       "answers": {
         "a": "fuses",
         "b": "numerical protection",
