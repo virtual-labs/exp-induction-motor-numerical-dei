@@ -12,7 +12,7 @@
 
 It is observed that when any fault takes place in the Induction motor, the Numerical Relay gives a trip signal to the circuit breaker to disconnect the Induction motor supply.
 
-# Connection Diagram of Experiment - 11
+## Connection Diagram 
 
 <center>
 
