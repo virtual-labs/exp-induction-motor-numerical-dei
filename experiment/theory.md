@@ -14,8 +14,12 @@ The slave relay is an electromagnetic, semi static relay which closes its contac
 
 # Equipments Required in Experiment - 11
 
+<center>
+
 | Equipment | Image |
 | :--- | :--- |
 | **Fig.1: Induction Motor** | ![Induction Motor](images/exp11/IM.jpg) |
 | **Fig.2: Numerical Relay** | ![Numerical Relay](images/exp11/NR.jpg) |
 | **Fig.3: Current Transformer** | ![Current Transformer](images/exp11/CT.jpg) |
+
+</center>
