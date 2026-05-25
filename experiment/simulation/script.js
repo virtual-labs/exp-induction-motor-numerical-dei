@@ -14,13 +14,13 @@ function updateButtons(activeId) {
 
 function imachange1() {
     // Line-Line Fault
-    document.getElementById('image1').src = 'Line-Line.png'; 
+    document.getElementById('image1').src = 'NumericalLL.png'; 
     updateButtons('button1');
 }
 
 function imachange2() {
     // Line-Ground Fault
-    document.getElementById('image1').src = 'Line-Ground.png'; 
+    document.getElementById('image1').src = 'NumericalLG.png'; 
     updateButtons('button2');
 }
 
