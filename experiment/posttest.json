@@ -1,10 +1,10 @@
 {
   "version": 2.0,
-  "quiz_title": "QUIZ - 11",
+ 
   "questions": [
     {
       "num": 6,
-      "question": "In textile machines, to avoid breaking of threads, soft starters are used. The commonly used method in soft starter is:",
+      "question": "6. In textile machines, to avoid breaking of threads, soft starters are used. The commonly used method in soft starter is:",
       "answers": {
         "a": "Direct online method",
         "b": "Star-delta method",
@@ -22,7 +22,7 @@
     },
     {
       "num": 7,
-      "question": "Torque of an induction motor can sometimes be given in synchronous-watt. One synchronous-watt is equal to:",
+      "question": "7. Torque of an induction motor can sometimes be given in synchronous-watt. One synchronous-watt is equal to:",
       "answers": {
         "a": "60 / (2 * pi * Ns) N-m",
         "b": "(2 * pi * Ns) / 60 N-m",
@@ -40,7 +40,7 @@
     },
     {
       "num": 8,
-      "question": "The air gap flux of induction motor does not contain:",
+      "question": "8. The air gap flux of induction motor does not contain:",
       "answers": {
         "a": "2nd harmonics",
         "b": "3rd harmonics",
@@ -58,7 +58,7 @@
     },
     {
       "num": 9,
-      "question": "L&T MPR 300 protection relay used for induction motor protection is an:",
+      "question": "9. L&T MPR 300 protection relay used for induction motor protection is an:",
       "answers": {
         "a": "Analog electronic relay",
         "b": "Digital relay",
@@ -76,7 +76,7 @@
     },
     {
       "num": 10,
-      "question": "MPR300 protection relay is used for:",
+      "question": "10. MPR300 protection relay is used for:",
       "answers": {
         "a": "Single phase induction motors",
         "b": "Fractional hp induction motors",
