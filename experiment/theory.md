@@ -14,7 +14,7 @@ The slave relay is an electromagnetic, semi static relay which closes its contac
 
 # Equipments Required in Experiment - 11
 
-<p align="center">
+<div style="text-align: center;">
 
 | Equipment | Image |
 | :--- | :--- |
@@ -22,4 +22,4 @@ The slave relay is an electromagnetic, semi static relay which closes its contac
 | **Fig.2: Numerical Relay** | ![Numerical Relay](images/exp11/NR.jpg) |
 | **Fig.3: Current Transformer** | ![Current Transformer](images/exp11/CT.jpg) |
 
-</p>
+</div>
