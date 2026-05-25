@@ -8,7 +8,7 @@
 6. Reset the relay by pressing reset button.
 7. Again start the motor and repeat the process for other faults.
 
-# Observations of Experiment - 11
+## Observations 
 
 It is observed that when any fault takes place in the Induction motor, the Numerical Relay gives a trip signal to the circuit breaker to disconnect the Induction motor supply.
 
