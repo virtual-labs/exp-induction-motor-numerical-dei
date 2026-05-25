@@ -1,1 +1,1 @@
-### To study protection of Induction Motor using numerical relay.
+To study protection of Induction Motor using numerical relay.
