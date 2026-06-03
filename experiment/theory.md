@@ -1,4 +1,4 @@
-## Theory: Induction Motor Protection
+## Theory
 
 The three phase induction motors are very reliable and robust, modern designs operate much closer to the limits of thermal margins and to give adequate protection, sophisticated protective relays are required. In addition, increased industrial use of power electronics leads to incorporate different harmonics in the system, which adversely affect the induction motor performance and cause considerable rotor heating.
 
@@ -12,8 +12,9 @@ A numerical relay is a solid state relay also called static relay. It contains e
 
 The slave relay is an electromagnetic, semi static relay which closes its contacts. The numerical relay as low burden on CT, PT, fast operation, absence of mechanical inertia and contact trouble, long life and less maintenance. So, they are superior to electromagnetic relay, but they are costly and required more maintenance.
 
-## Equipments Required 
-<div style="text-align: center;">
+## Equipments Required
+
+<div style="display: flex; justify-content: center;">
 
 | Equipment | Image |
 | :--- | :--- |
@@ -21,4 +22,11 @@ The slave relay is an electromagnetic, semi static relay which closes its contac
 | **Fig.2: Numerical Relay** | ![Numerical Relay](images/exp11/NR.jpg) |
 | **Fig.3: Current Transformer** | ![Current Transformer](images/exp11/CT.jpg) |
 
+<!-- end #menu -->
+<br/><br/><br/>
+<div style="text-align: center;">
+    <b style="font-size:18px">To study protection of Induction Motor using numerical relay. </b><br/><br/>
+    <video width="480" height="360" controls>
+        <source src="videos/Video11.mp4" type="video/mp4">
+    </video>
 </div>
