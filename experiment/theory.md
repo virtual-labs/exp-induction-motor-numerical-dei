@@ -22,11 +22,3 @@ The slave relay is an electromagnetic, semi static relay which closes its contac
 | **Fig.2: Numerical Relay** | ![Numerical Relay](images/exp11/NR.jpg) |
 | **Fig.3: Current Transformer** | ![Current Transformer](images/exp11/CT.jpg) |
 
-<!-- end #menu -->
-<br/><br/><br/>
-<div style="text-align: center;">
-    <b style="font-size:18px">To study protection of Induction Motor using numerical relay. </b><br/><br/>
-    <video width="480" height="360" controls>
-        <source src="videos/Video11.mp4" type="video/mp4">
-    </video>
-</div>
