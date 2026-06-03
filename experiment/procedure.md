@@ -21,3 +21,13 @@ It is observed that when any fault takes place in the Induction motor, the Numer
 **Fig. 11.1: Circuit diagram of Numerical protection of transformer**
 
 </center>
+
+## Video for experiment:
+
+<br/><br/><br/>
+<div style="text-align: center;">
+    <b style="font-size:18px">To study protection of Induction Motor using numerical relay.</b><br/><br/>
+    <video width="480" height="360" controls>
+        <source src="videos/exp11.mp4" type="video/mp4">
+    </video>
+</div>
