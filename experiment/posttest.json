@@ -1,10 +1,8 @@
 {
   "version": 2.0,
- 
   "questions": [
     {
-      "num": 6,
-      "question": "6. In textile machines, to avoid breaking of threads, soft starters are used. The commonly used method in soft starter is:",
+      "question": "1. In textile machines, to avoid breaking of threads, soft starters are used. The commonly used method in soft starter is:",
       "answers": {
         "a": "Direct online method",
         "b": "Star-delta method",
@@ -17,12 +15,10 @@
         "c": "Correct. Soft starters use thyristor voltage control to gradually increase voltage, providing smooth acceleration.",
         "d": "Incorrect. Current controller is less common; voltage control is standard."
       },
-      "correctAnswer": "c",
-      "difficulty": "intermediate"
+      "correctAnswer": "c"
     },
     {
-      "num": 7,
-      "question": "7. Torque of an induction motor can sometimes be given in synchronous-watt. One synchronous-watt is equal to:",
+      "question": "2. Torque of an induction motor can sometimes be given in synchronous-watt. One synchronous-watt is equal to:",
       "answers": {
         "a": "60 / (2 * pi * Ns) N-m",
         "b": "(2 * pi * Ns) / 60 N-m",
@@ -35,12 +31,10 @@
         "c": "Incorrect.",
         "d": "Incorrect."
       },
-      "correctAnswer": "a",
-      "difficulty": "advanced"
+      "correctAnswer": "a"
     },
     {
-      "num": 8,
-      "question": "8. The air gap flux of induction motor does not contain:",
+      "question": "3. The air gap flux of induction motor does not contain:",
       "answers": {
         "a": "2nd harmonics",
         "b": "3rd harmonics",
@@ -53,12 +47,10 @@
         "c": "Incorrect. 5th harmonics are present in the air gap flux.",
         "d": "Incorrect. 7th harmonics are present."
       },
-      "correctAnswer": "b",
-      "difficulty": "advanced"
+      "correctAnswer": "b"
     },
     {
-      "num": 9,
-      "question": "9. L&T MPR 300 protection relay used for induction motor protection is an:",
+      "question": "4. L&T MPR 300 protection relay used for induction motor protection is an:",
       "answers": {
         "a": "Analog electronic relay",
         "b": "Digital relay",
@@ -71,12 +63,10 @@
         "c": "Incorrect.",
         "d": "Incorrect."
       },
-      "correctAnswer": "b",
-      "difficulty": "intermediate"
+      "correctAnswer": "b"
     },
     {
-      "num": 10,
-      "question": "10. MPR300 protection relay is used for:",
+      "question": "5. MPR300 protection relay is used for:",
       "answers": {
         "a": "Single phase induction motors",
         "b": "Fractional hp induction motors",
@@ -89,8 +79,7 @@
         "c": "Correct. MPR 300 is designed for 3-phase induction motors up to approximately 85 HP (typical rating range).",
         "d": "Incorrect. Larger motors use different protection relays."
       },
-      "correctAnswer": "c",
-      "difficulty": "intermediate"
+      "correctAnswer": "c"
     }
   ]
 }
