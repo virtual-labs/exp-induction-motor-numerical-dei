@@ -16,8 +16,7 @@
         "c": "Incorrect. Blind spots are addressed by primary protection design.",
         "d": "Correct. Backup protection operates when primary protection fails to clear a fault."
       },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
     },
     {
       "num": 2,
@@ -34,8 +33,7 @@
         "c": "Partial. Directional relays respond to phase angle.",
         "d": "Correct. Relays can be actuated by magnitude, frequency, phase angle, or combinations thereof."
       },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
     },
     {
       "num": 3,
@@ -52,8 +50,7 @@
         "c": "Partial. Environmental conditions (moisture, dust, temperature) contribute to failures.",
         "d": "Correct. Induction motor failures can result from electrical, mechanical, and environmental factors."
       },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
     },
     {
       "num": 4,
@@ -70,8 +67,7 @@
         "c": "Partial. No-voltage/under-voltage protection prevents restart after power failure.",
         "d": "Correct. Starters typically include starting current limitation, overload protection, and no-voltage protection."
       },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
     },
     {
       "num": 5,
@@ -88,8 +84,7 @@
         "c": "Incorrect. Basic starter protection (thermal overload) may not cover all these faults.",
         "d": "Incorrect because numerical protection does provide these functions."
       },
-      "correctAnswer": "b",
-      "difficulty": "intermediate"
+      "correctAnswer": "b"
     }
   ]
 }
