@@ -1,1 +1,1 @@
-### Aim of the experiment
+To study protection of Induction Motor using numerical relay.

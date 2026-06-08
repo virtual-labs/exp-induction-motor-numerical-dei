@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+     
+      "question": "1. What is the purpose of back up protection?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To increase the speed",
+        "b": "To increase the reach",
+        "c": "To leave no blind spot",
+        "d": "To guard against failure of primary"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. Backup protection is not for increasing speed.",
+        "b": "Incorrect. Reach is not the primary purpose.",
+        "c": "Incorrect. Blind spots are addressed by primary protection design.",
+        "d": "Correct. Backup protection operates when primary protection fails to clear a fault."
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
     },
     {
-      "question": "This is a Sample Question 2?",
+      
+      "question": "2. What is the actuating quantity for the relays?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Magnitude",
+        "b": "Frequency",
+        "c": "Phase angle",
+        "d": "All of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Partial. Relays can respond to magnitude (overcurrent, undervoltage).",
+        "b": "Partial. Frequency relays respond to frequency deviations.",
+        "c": "Partial. Directional relays respond to phase angle.",
+        "d": "Correct. Relays can be actuated by magnitude, frequency, phase angle, or combinations thereof."
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
+    },
+    {
+     
+      "question": "3. The Induction Motor failures are mainly due to:",
+      "answers": {
+        "a": "Electrical faults",
+        "b": "Mechanical stresses",
+        "c": "Environmental conditions",
+        "d": "All of these"
+      },
+      "explanations": {
+        "a": "Partial. Electrical faults (stator winding, rotor bars) are a major cause.",
+        "b": "Partial. Mechanical stresses (bearing failure, shaft misalignment) are common.",
+        "c": "Partial. Environmental conditions (moisture, dust, temperature) contribute to failures.",
+        "d": "Correct. Induction motor failures can result from electrical, mechanical, and environmental factors."
+      },
+      "correctAnswer": "d"
+    },
+    {
+     
+      "question": "4. What are the protections in starter of 3-phase induction motor:",
+      "answers": {
+        "a": "Limiting starting current",
+        "b": "Overload protection",
+        "c": "No-voltage protection",
+        "d": "All above"
+      },
+      "explanations": {
+        "a": "Partial. Starters limit inrush current (e.g., star-delta, auto-transformer).",
+        "b": "Partial. Overload relays protect against prolonged overcurrent.",
+        "c": "Partial. No-voltage/under-voltage protection prevents restart after power failure.",
+        "d": "Correct. Starters typically include starting current limitation, overload protection, and no-voltage protection."
+      },
+      "correctAnswer": "d"
+    },
+    {
+     
+      "question": "5. Name the protection used for induction motor from overload, single phasing, locked rotor and earth fault:",
+      "answers": {
+        "a": "fuses",
+        "b": "numerical protection",
+        "c": "Protection in starter",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Incorrect. Fuses only provide short-circuit protection, not overload or single phasing.",
+        "b": "Correct. Numerical (digital) relays like MPR 300 provide comprehensive protection including overload, single phasing, locked rotor, and earth fault.",
+        "c": "Incorrect. Basic starter protection (thermal overload) may not cover all these faults.",
+        "d": "Incorrect because numerical protection does provide these functions."
+      },
+      "correctAnswer": "b"
     }
   ]
 }

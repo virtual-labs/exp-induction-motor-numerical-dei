@@ -2,38 +2,84 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. In textile machines, to avoid breaking of threads, soft starters are used. The commonly used method in soft starter is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Direct online method",
+        "b": "Star-delta method",
+        "c": "Thyristor voltage controller method",
+        "d": "Thyristor current controller method"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. DOL gives full voltage starting, causing high torque transients.",
+        "b": "Incorrect. Star-delta gives stepped starting, not smooth control.",
+        "c": "Correct. Soft starters use thyristor voltage control to gradually increase voltage, providing smooth acceleration.",
+        "d": "Incorrect. Current controller is less common; voltage control is standard."
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "c"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Torque of an induction motor can sometimes be given in synchronous-watt. One synchronous-watt is equal to:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "60 / (2 * pi * Ns) N-m",
+        "b": "(2 * pi * Ns) / 60 N-m",
+        "c": "120 / (2 * pi * Ns) N-m",
+        "d": "(2 * pi * Ns) / 120 N-m"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. 1 synchronous-watt = 60/(2πNs) N-m, where Ns is synchronous speed in rpm. Since torque (N-m) = (Power in watts × 60)/(2π × Ns).",
+        "b": "Incorrect. This gives the inverse relationship.",
+        "c": "Incorrect.",
+        "d": "Incorrect."
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "a"
+    },
+    {
+      "question": "3. The air gap flux of induction motor does not contain:",
+      "answers": {
+        "a": "2nd harmonics",
+        "b": "3rd harmonics",
+        "c": "5th harmonics",
+        "d": "7th harmonics"
+      },
+      "explanations": {
+        "a": "Incorrect. Even harmonics are generally absent in balanced systems, but 2nd is absent.",
+        "b": "Correct. In a balanced 3-phase system, 3rd harmonics and multiples of 3 are absent in the line quantities and air gap flux due to cancellation.",
+        "c": "Incorrect. 5th harmonics are present in the air gap flux.",
+        "d": "Incorrect. 7th harmonics are present."
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "4. L&T MPR 300 protection relay used for induction motor protection is an:",
+      "answers": {
+        "a": "Analog electronic relay",
+        "b": "Digital relay",
+        "c": "Both (a) and (b)",
+        "d": "none of the above"
+      },
+      "explanations": {
+        "a": "Incorrect. MPR 300 is not analog electronic.",
+        "b": "Correct. MPR 300 is a microprocessor-based digital protection relay.",
+        "c": "Incorrect.",
+        "d": "Incorrect."
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "5. MPR300 protection relay is used for:",
+      "answers": {
+        "a": "Single phase induction motors",
+        "b": "Fractional hp induction motors",
+        "c": "3-phase induction motors upto 85 hp rating",
+        "d": "3-phase induction motors above 85 hp rating"
+      },
+      "explanations": {
+        "a": "Incorrect. MPR 300 is for 3-phase motors.",
+        "b": "Incorrect. Fractional HP motors typically use simpler protection.",
+        "c": "Correct. MPR 300 is designed for 3-phase induction motors up to approximately 85 HP (typical rating range).",
+        "d": "Incorrect. Larger motors use different protection relays."
+      },
+      "correctAnswer": "c"
     }
   ]
 }
